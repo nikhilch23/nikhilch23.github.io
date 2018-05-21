@@ -1,0 +1,14 @@
+.button
+{
+	cursor: pointer;
+}
+.header
+{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+#find
+{
+	margin-top: 100px;
+}
