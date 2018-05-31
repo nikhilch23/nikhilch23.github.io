@@ -11,18 +11,20 @@
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 .intro
 {
 	margin-top: 50px;
 	text-align: center;
-	font-size: 30px;
+	font-size: 33px;
+	font-weight: bold;
 }
 .footer
 {
 	text-align: center;
-	margin-top: 200px;
+	margin-top: 170px;
+	margin-left: 15px;
 
 }
 .button
@@ -32,7 +34,7 @@
 	background-color: black;
 	color: white;
 	padding: 10px 24px;
-	font-size: 17px;
+	font-size: 22px;
 	border: 2px solid #555555;
 	opacity: 0.6;
   	transition: 0.3s;
@@ -40,7 +42,7 @@
 .button:hover {opacity: 1}
 body
 {
-	background-color: #666633;
+	background-color: #bfbfbf;
 }
 .image
 {
