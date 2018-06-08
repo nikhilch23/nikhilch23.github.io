@@ -1,3 +1,20 @@
+# Developer's Note: This is a sample _config.yml file offered with
+# jekyll-theme-prologue for your convenience. To use it, move it to your
+# project's root directory. Please note that the following lines are
+# NECESSARY for Prologue to work correctly:
+#
+# theme: jekyll-theme-prologue
+# collections: [sections]
+#
+# They activate the theme and tell Jekyll to find your homepage content
+# in /_sections. Note where "sections" starts with an underscore
+# and where it doesn't. The social settings will make links to
+# Twitter, etc., but only if you give the URL.
+#
+# Also, be sure to customize url and baseurl for your site.
+#
+# ---------------------------------------------------------------
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,31 +31,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nikhil Choudhary
+subtitle: Freshman; Enthusiast
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the demo site for a Jekyll theme version of
+  HTML5 UP's sleek, responsive site template Prologue.
+author: Nikhil Choudhary
 email: nik.ch.23@gmail.com
-description:  # this means to ignore newlines until "baseurl:"
-  Freshman, enthusisast, Kgpian
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://nikhilch23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: NikhilC30581342
-github_username:  nikhilch23
-facebook_username: nikhilch23
-medium_username: nikhilchoudhary_17565
+avatar: assets/images/pic.jpg
 
+# You'll want to customize url and baseurl for your own site:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# Social settings
+facebook_url: https://www.facebook.com/nikhilch23
+github_url: https://github.com/nikhilch23
+googleplus_url: https://plus.google.com/115969705607558951736
+linkedin_url: https://www.linkedin.com/in/nikhil-choudhary-a79992148/
+medium_url: https://medium.com/@nikhilchoudhary_17565
+twitter_url: https://twitter.com/NikhilC30581342
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/23
+# Google Analytics Tracking ID goes here:
+google_analytics:
+
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+collections: [sections]
