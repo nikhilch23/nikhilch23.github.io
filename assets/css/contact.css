@@ -1,11 +1,5 @@
 .list
 {
-	float: left;
-	margin: auto;
-}
-.text
-{
-	float: left;
-	margin: auto;
-
+	
+	display: inline-block;
 }
