@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some of my favourites:
+I love to read books. I hadn't discovered this part of the world until soon. But when I did, it was nothing less than heaven. Here are some from my bucket list:
 
 1. Dan Brown: *The Da Vinci Code*
 2. Dan Brown: *Angels and Demons*
