@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-I am a second year under graduate student of the department of Humanities and Social Sciences enrolled in its Economics integrated course(M.Sc.) at [IIT Kharagpur][iitkgp]. I am a freshman in the field of open source and I love to code. I am from Deoghar, Jharkhand and I currently reside in Kharagpur. I am an ex-student of St. Francis School, Deoghar.
+I am a second year under graduate student in the department of Humanities and Social Sciences enrolled in its integrated course of Economics(M.Sc.) at [IIT Kharagpur][iitkgp]. I am a freshman in the field of open source and I love to code. I am from Deoghar, Jharkhand and I currently reside in Kharagpur. I am an ex-student of St. Francis School, Deoghar.
 
 I am a core team member of [Kharagpur Open Source Society][koss] (KOSS) where we strive to spread the open source culture in the campus as well outside. It is not a society basically. It's a group of similar minded open source enthusuiasts where we sit and discuss random stuffs and how it can be put to use. We organise various workshops on Git, Python, C++ and many other languages throughout the year. The main glory of KOSS over the last few years has been [Kharagpur Winter of Code][kwoc](KWoC) which is a demo of the very famous [Google Summer of Code][gsoc](GSoC). It is held in December and gears us up for the upcoming challenges.
 
