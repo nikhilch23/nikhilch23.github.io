@@ -1,5 +1,5 @@
 current directory: /home/nikhil/nikhilch23.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
-/usr/bin/ruby2.3 -r ./siteconf20180803-12246-1f8gwb9.rb extconf.rb
+/usr/bin/ruby2.3 -r ./siteconf20180804-7234-1v2uuaz.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -161,4 +161,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20180803-12246-sf6skv
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20180804-7234-h8qoaj
